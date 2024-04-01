@@ -19,6 +19,6 @@ Getting Started To run the Therapist Dashboard Management Web App locally, follo
 Clone this repository. 
 - Install dependencies for both backend and frontend. 
 - Configure the backend settings, including the database connection. 
-Start the backend server. 
-Start the frontend development server. 
-Access the web application in your browser.
+- Start the backend server. 
+- Start the frontend development server. 
+- Access the web application in your browser.
