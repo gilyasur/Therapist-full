@@ -8,7 +8,7 @@ Secure registration and login system supporting different user roles. Personaliz
 #   Performance: 
 Fast and efficient loading for seamless user experience. Security: Encrypted user authentication and data transmission, with restricted access to patient data. Scalability: Scalable system to accommodate growing therapist and patient base. Compatibility: Compatible with major web browsers and accessible from desktop and mobile devices. User Interface: Intuitive and user-friendly design prioritizing accessibility and best practices for user experience.
 
-#   echnical Stack Backend Framework: 
+#   Technical Stack Backend Framework: 
 Django Frontend Library: React Database: Sqlite Authentication: Django Authentication System API Communication: RESTful APIs
 
 
