@@ -11,6 +11,8 @@ Fast and efficient loading for seamless user experience. Security: Encrypted use
 #   Technical Stack Backend Framework: 
 Django Frontend Library: React Database: Sqlite Authentication: Django Authentication System API Communication: RESTful APIs
 
+ScreenShot of the Project :
+![Image Alt text](/Back/media//images/Screenshot.png)
 
 Getting Started To run the Therapist Dashboard Management Web App locally, follow these steps:
 
