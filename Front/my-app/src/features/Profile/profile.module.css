@@ -1,0 +1,30 @@
+.card {
+
+    margin-top: 3px;
+    background-color: #FFF8E3;
+    border: 0.5px solid #395471;
+
+  }
+  
+  .avatar {
+    border: 0.5px solid #395471;
+}
+
+
+.bodySize {
+  display: flex;
+  justify-content: center;
+}
+
+.headerContainer {
+  position: relative;
+  
+}
+
+.header {
+  position: absolute;
+  top: -30px; 
+  left: 0;
+  right: 0;
+  text-align: center;
+}

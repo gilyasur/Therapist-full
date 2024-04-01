@@ -1,0 +1,84 @@
+.header {
+  padding-top: 8px; 
+  background-color: #FFF8E3;
+  border-bottom: 1px solid #d2d8e0; 
+  margin-bottom: 30px; 
+}
+
+.mainSection {
+  padding-bottom: 8px;
+}
+
+.user {
+  color: #000000; 
+  padding: 4px 8px;
+  border-radius: 4px;
+  transition: background-color 100ms ease;
+
+  &:hover {
+    background-color: #ffffff; 
+
+  @media (max-width: 576px) {
+    display: none;
+  }
+}
+}
+.userActive {
+  background-color: #ffffff;
+}
+
+.tabsList {
+  &::before {
+    display: none;
+  }
+}
+
+.tab {
+  font-weight: 500;
+  height: 38px; 
+  background-color: transparent;
+  position: relative;
+  bottom: -1px;
+
+  &::before,
+  &::after {
+    background-color: #d2d8e0;
+  }
+
+  &:hover {
+    background-color: #edf1f7; 
+  }
+
+  &[data-active] {
+    background-color: #ffffff; 
+    border-color: #d2d8e0; 
+    border-bottom-color: transparent;
+  }
+}
+
+
+.tabLink {
+
+    color: #3d5a73; 
+    text-decoration: none;
+    font-weight: bold; 
+    margin-right: 10px;
+  
+  
+  
+  
+}
+
+.hamMenu {
+  display: none;
+  @media (max-width: 769px) {
+    display: block;
+  }
+}
+.dmSansCustom {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 20px
+}

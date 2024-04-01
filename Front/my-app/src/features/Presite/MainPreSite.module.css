@@ -1,0 +1,41 @@
+.title {
+    font-family:
+      Greycliff CF,
+      var(--mantine-font-family);
+    font-weight: 900;
+  }
+  .dmSansCustom {
+    font-family: "DM Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300; /* Adjust the weight as needed */
+    font-style: normal;
+    font-size: 20px
+  }
+
+  .header {
+    padding-top: 8px; 
+    background-color: #FFF8E3;
+    border-bottom: 1px solid #d2d8e0; 
+    margin-bottom: 30px; 
+  }
+  
+  .mainSection {
+    padding-bottom: 8px;
+  }
+
+  .groupContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+  }
+  
+  .logoContainer {
+    flex: 0 0 auto; 
+  }
+  
+  .textContainer {
+    flex: 1; 
+    margin-left: 230px;
+    
+  }
+  
